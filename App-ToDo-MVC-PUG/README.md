@@ -40,3 +40,27 @@ npm i --save concurrently
 ´´´
 npm i --save axios sweetalert2
 ´´´
+
+#### Instalar permite hash de la password
+
+´´´
+npm i --save bcrypt-nodejs
+´´´
+
+#### Instalar sirve para alerta y mensajes
+
+´´´
+npm i --save connect-flash
+´´´
+
+#### Sirve par aguardar las seciones abiertas
+
+´´´
+npm i --save cookie-parser express-session
+´´´
+
+#### Sirve par los correos
+
+´´´
+npm i --save nodemailer juice html-to-text
+´´´
